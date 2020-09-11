@@ -1,0 +1,11 @@
+﻿Sepal length (CM),Sepal width (CM),Petal length (CM),Petal width (CM),Class
+6.2,2.2,4.5,1.5,Iris-versicolor
+6,2.2,5,1.5,Iris-virginica
+4.5,2.3,1.3,0.3,Iris-setosa
+5,2.3,3.3,1,Iris-versicolor
+5.5,2.3,4,1.3,Iris-versicolor
+6.3,2.5,4.9,1.5,Iris-versicolor
+4.9,2.5,4.5,1.7,Iris-virginica
+6.7,2.5,5.8,1.8,Iris-virginica
+6.3,2.5,5,1.9,Iris-virginica
+5.7,2.5,5,2,Iris-virginica
